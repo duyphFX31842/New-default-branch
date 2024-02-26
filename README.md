@@ -21,6 +21,7 @@ Sau khi tải thành công, bạn sẽ mở Anaconda chọn (Lauch) Jupyter Note
 1. Mở file notebook tên **"lastname_firstname_grade_the_exams.py"**
 
 2. Chạy các dòng code trong dự án sau đó điền tên từng **"class_file"** để kiểm tra và chấm điểm theo yêu cầu
+
 ## Tính năng của các hàm được sử dụng trong dự án
 
 **read_file**: Đọc một tệp CSV chứa câu trả lời của học sinh.
@@ -32,5 +33,8 @@ Sau khi tải thành công, bạn sẽ mở Anaconda chọn (Lauch) Jupyter Note
 **statistics_grades**: Cung cấp các số liệu thống kê về hiệu suất của học sinh, bao gồm điểm trung bình, điểm cao nhất, điểm thấp nhất, phạm vi điểm, điểm trung vị, câu hỏi được bỏ qua nhiều nhất và câu hỏi được trả lời sai nhiều nhất.
 
 **write_result**: Xuất kết quả ra một tệp mới.
+
+# Ghi Chú
+Dự án này được tham khảo từ bài code mẫu của Tutor Tuấn Bùi.
 
 
