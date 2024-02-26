@@ -10,7 +10,7 @@ Dữ liệu cho dự án có thể được tải xuống từ [đường link n
 
 ## Yêu Cầu
 
-Để chạy dự án này, đảm bảo bạn đã cài đặt Anaconda trên hệ thống của mình. Bạn có thể tải Anaconda từ [trang web chính thức](https://www.anaconda.com/products/distribution).
+Để chạy dự án này, đảm bảo bạn đã cài đặt Anaconda trên hệ thống của mình. Bạn có thể tải Anaconda (Python phiên bản 3.9) từ [trang web chính thức](https://www.anaconda.com/products/distribution).
 
 ## Cài Đặt
 
