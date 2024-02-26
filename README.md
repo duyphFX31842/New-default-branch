@@ -20,7 +20,7 @@ Sau khi tải thành công, bạn sẽ mở Anaconda chọn (Lauch) Jupyter Note
 
 1. Mở file notebook tên **"lastname_firstname_grade_the_exams.py"**
 
-2. Chạy các dòng code trong dự án sau đó điền tên từng **"class_file"** để kiểm tra và chấm điểm theo yêu cầu
+2. Chạy các dòng code trong dự án sau đó input tên từng **"class_file"** để kiểm tra và chấm điểm theo yêu cầu
 
 ## Tính năng của các hàm được sử dụng trong dự án
 
