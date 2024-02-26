@@ -34,7 +34,7 @@ Sau khi tải thành công, bạn sẽ mở Anaconda chọn (Lauch) Jupyter Note
 
 **write_result**: Xuất kết quả ra một tệp mới.
 
-# Ghi Chú
+## Ghi Chú
 Dự án này được tham khảo từ bài code mẫu của Tutor Tuấn Bùi.
 
 
