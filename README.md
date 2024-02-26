@@ -6,7 +6,7 @@ Dự án này được thiết kế để chấm điểm các bài kiểm tra tr
 
 ## Tải Dữ Liệu
 
-Dữ liệu cho dự án có thể được tải xuống từ [đường link này](https://drive.google.com/file/d/1OP35rvIGoKp-pboeA5m0jIfSw2GdlY5h/view)
+Dữ liệu "Data_files" cho dự án có thể được tải xuống từ [đường link này](https://drive.google.com/file/d/1OP35rvIGoKp-pboeA5m0jIfSw2GdlY5h/view)
 
 ## Yêu Cầu
 
@@ -18,9 +18,11 @@ Sau khi tải thành công, bạn sẽ mở Anaconda chọn (Lauch) Jupyter Note
 
 ## Sử dụng
 
-1. Mở file notebook tên **"lastname_firstname_grade_the_exams.py"**
+1. Upload các **"class_file"** và file notebook chứa code dự án **"lastname_firstname_grade_the_exams.py"** lên Home page của Jupyter notebook.
 
-2. Chạy các dòng code trong dự án sau đó input tên từng **"class_file"** để kiểm tra và chấm điểm theo yêu cầu
+2. Mở file notebook tên **"lastname_firstname_grade_the_exams.py"**.
+
+3. Chạy các dòng code trong dự án sau đó input tên từng **"class_file"** để kiểm tra và chấm điểm theo yêu cầu.
 
 ## Tính năng của các hàm được sử dụng trong dự án
 
