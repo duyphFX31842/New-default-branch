@@ -18,15 +18,19 @@ Sau khi tải thành công, bạn sẽ mở Anaconda chọn (Lauch) Jupyter Note
 
 ## Sử dụng
 
-### 1. Mở file notebook tên "lastname_firstname_grade_the_exams.py"
+1. Mở file notebook tên **"lastname_firstname_grade_the_exams.py"**
 
-### 2. Chạy các câu lệnh trong dự án và điền tên từng "class_file" để kiểm tra và chấm điểm từng file
-
+2. Chạy các dòng code trong dự án sau đó điền tên từng **"class_file"** để kiểm tra và chấm điểm theo yêu cầu
 ## Tính năng của các hàm được sử dụng trong dự án
-**read_file: Đọc một tệp CSV chứa câu trả lời của học sinh.
-Kiểm Tra Dữ Liệu: Kiểm tra các dòng dữ liệu hợp lệ và không hợp lệ theo các tiêu chí cụ thể.
-Chấm Điểm: Đánh giá các câu trả lời của học sinh so với một bảng đáp án, xem xét các câu trả lời đúng, các câu hỏi bị bỏ qua và các câu trả lời sai.
-Thống Kê: Cung cấp các số liệu thống kê về hiệu suất của học sinh, bao gồm điểm trung bình, điểm cao nhất, điểm thấp nhất, phạm vi điểm, điểm trung vị, câu hỏi được bỏ qua nhiều nhất và câu hỏi được trả lời sai nhiều nhất.
-Tạo Báo Cáo: Xuất kết quả ra một tệp mới.
+
+**read_file**: Đọc một tệp CSV chứa câu trả lời của học sinh.
+
+**check_valid**: Kiểm tra các dòng dữ liệu hợp lệ và không hợp lệ theo các tiêu chí cụ thể.
+
+**grading**: Đánh giá các câu trả lời của học sinh so với một bảng đáp án, xem xét các câu trả lời đúng, các câu hỏi bị bỏ qua và các câu trả lời sai.
+
+**statistics_grades**: Cung cấp các số liệu thống kê về hiệu suất của học sinh, bao gồm điểm trung bình, điểm cao nhất, điểm thấp nhất, phạm vi điểm, điểm trung vị, câu hỏi được bỏ qua nhiều nhất và câu hỏi được trả lời sai nhiều nhất.
+
+**write_result**: Xuất kết quả ra một tệp mới.
 
 
